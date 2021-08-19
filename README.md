@@ -7,6 +7,6 @@ OCSVM &amp; IF
 <br><br>
   I would like to have used more models such as AutoEncoders, but too much time was spent researching how I could explain feature importance on a One Class Classification (Novelty Detection) problem.
 <br><br>
-Either way, this project should be a reasonable example for someone explore the Data Engineering --> Data Science --> Machine Learning pipeline that you may be faced with in the wild.
+Either way, this project should be a reasonable example for someone to explore the Data Engineering --> Data Science --> Machine Learning pipeline that you may be faced with in the wild.
 <br><br>
 This project was run on a machine that is not my own, and with private data.  Therefore some of the beautiful plotly charts are missing.. *c'est la vie*..
